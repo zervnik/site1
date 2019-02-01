@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,mpegts?token=zervnik3gmailcom:76bdFcjy5A
+#EXTVLCOPT:network-caching=1000
+http://up4tv.com:8080/bsdev/live/GR-DIGEA-SKAI/mpegts?token=zervnik3gmailcom:76bdFcjy5A
