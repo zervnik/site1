@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:111, Sample artist name - Sample track title
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+#EXTINF:111, SKAI
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
  
 #EXTINF:222,Example Artist name - Example track title
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
