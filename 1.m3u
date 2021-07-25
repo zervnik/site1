@@ -1,0 +1,13 @@
+#EXTM3U
+ 
+#EXTINF:111, Sample artist name - Sample track title
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+ 
+#EXTINF:222,Example Artist name - Example track title
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+                        
+#EXTINF:333,Example Artist name - Example track title
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
+
+#EXTINF:444,Example Artist name - Example track title
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
